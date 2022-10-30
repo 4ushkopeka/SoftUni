@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\CubeSum.exe
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\CubeSum.deps.json
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\CubeSum.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\CubeSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\CubeSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\ref\CubeSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\bin\Debug\net5.0\CubeSum.pdb
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\ref\CubeSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.pdb
+C:\Users\User\source\repos\JaggedArraysLab\CubeSum\obj\Debug\net5.0\CubeSum.genruntimeconfig.cache

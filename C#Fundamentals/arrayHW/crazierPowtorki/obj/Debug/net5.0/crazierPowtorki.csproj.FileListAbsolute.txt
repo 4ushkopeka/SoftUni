@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\crazierPowtorki.exe
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\crazierPowtorki.deps.json
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\crazierPowtorki.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\crazierPowtorki.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\crazierPowtorki.dll
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\ref\crazierPowtorki.dll
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\bin\Debug\net5.0\crazierPowtorki.pdb
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.dll
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\ref\crazierPowtorki.dll
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.pdb
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.genruntimeconfig.cache
+C:\Users\User\source\repos\arrayHW\crazierPowtorki\obj\Debug\net5.0\crazierPowtorki.csproj.AssemblyReference.cache

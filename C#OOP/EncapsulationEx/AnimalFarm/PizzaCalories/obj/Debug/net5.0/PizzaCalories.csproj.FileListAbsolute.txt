@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\PizzaCalories.exe
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\PizzaCalories.deps.json
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\PizzaCalories.runtimeconfig.json
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\PizzaCalories.runtimeconfig.dev.json
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\PizzaCalories.dll
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\ref\PizzaCalories.dll
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\bin\Debug\net5.0\PizzaCalories.pdb
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.dll
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\ref\PizzaCalories.dll
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.pdb
+C:\Users\User\source\repos\EncapsulationEx\AnimalFarm\PizzaCalories\obj\Debug\net5.0\PizzaCalories.genruntimeconfig.cache

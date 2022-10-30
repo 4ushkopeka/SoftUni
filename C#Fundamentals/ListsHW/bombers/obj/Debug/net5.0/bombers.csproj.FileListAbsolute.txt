@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\bombers.exe
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\bombers.deps.json
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\bombers.runtimeconfig.json
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\bombers.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\bombers.dll
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\ref\bombers.dll
+C:\Users\User\source\repos\ListsHW\bombers\bin\Debug\net5.0\bombers.pdb
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.AssemblyInfo.cs
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.dll
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\ref\bombers.dll
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.pdb
+C:\Users\User\source\repos\ListsHW\bombers\obj\Debug\net5.0\bombers.genruntimeconfig.cache

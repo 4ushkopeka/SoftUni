@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.AssemblyInfo.cs
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADipInClasses\Racers\bin\Debug\netcoreapp3.1\Racers.exe
+C:\Users\User\source\repos\ADipInClasses\Racers\bin\Debug\netcoreapp3.1\Racers.deps.json
+C:\Users\User\source\repos\ADipInClasses\Racers\bin\Debug\netcoreapp3.1\Racers.runtimeconfig.json
+C:\Users\User\source\repos\ADipInClasses\Racers\bin\Debug\netcoreapp3.1\Racers.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADipInClasses\Racers\bin\Debug\netcoreapp3.1\Racers.dll
+C:\Users\User\source\repos\ADipInClasses\Racers\bin\Debug\netcoreapp3.1\Racers.pdb
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.dll
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.pdb
+C:\Users\User\source\repos\ADipInClasses\Racers\obj\Debug\netcoreapp3.1\Racers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\LadyBugs.exe
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\LadyBugs.deps.json
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\LadyBugs.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\LadyBugs.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\LadyBugs.dll
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\ref\LadyBugs.dll
+C:\Users\User\source\repos\arrayHW\LadyBugs\bin\Debug\net5.0\LadyBugs.pdb
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.dll
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\ref\LadyBugs.dll
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.pdb
+C:\Users\User\source\repos\arrayHW\LadyBugs\obj\Debug\net5.0\LadyBugs.genruntimeconfig.cache

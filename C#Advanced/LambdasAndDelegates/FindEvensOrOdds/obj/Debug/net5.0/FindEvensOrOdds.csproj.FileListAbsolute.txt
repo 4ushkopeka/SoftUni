@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.exe
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.dll
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\ref\FindEvensOrOdds.dll
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.dll
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\ref\FindEvensOrOdds.dll
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.genruntimeconfig.cache

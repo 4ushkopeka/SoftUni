@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses1\DefiningClasses.csproj", "{44A458DC-805B-4AA9-B2B4-9B2C442AFFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racers", "Racers\Racers.csproj", "{5EDF3B84-765A-4648-A185-724EF953D386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A458DC-805B-4AA9-B2B4-9B2C442AFFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A458DC-805B-4AA9-B2B4-9B2C442AFFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A458DC-805B-4AA9-B2B4-9B2C442AFFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A458DC-805B-4AA9-B2B4-9B2C442AFFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDF3B84-765A-4648-A185-724EF953D386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDF3B84-765A-4648-A185-724EF953D386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDF3B84-765A-4648-A185-724EF953D386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDF3B84-765A-4648-A185-724EF953D386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271C49F8-515A-4A96-9A2C-858AD87FF067}
+	EndGlobalSection
+EndGlobal

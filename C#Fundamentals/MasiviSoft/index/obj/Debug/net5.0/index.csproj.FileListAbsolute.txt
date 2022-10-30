@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\index.exe
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\index.deps.json
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\index.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\index.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\index.dll
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\ref\index.dll
+C:\Users\User\source\repos\MasiviSoft\index\bin\Debug\net5.0\index.pdb
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.dll
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\ref\index.dll
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.pdb
+C:\Users\User\source\repos\MasiviSoft\index\obj\Debug\net5.0\index.genruntimeconfig.cache

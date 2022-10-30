@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\Cards.exe
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\Cards.deps.json
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\Cards.runtimeconfig.json
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\Cards.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\Cards.dll
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\ref\Cards.dll
+C:\Users\User\source\repos\ListsHW\Cards\bin\Debug\net5.0\Cards.pdb
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.AssemblyInfo.cs
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.dll
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\ref\Cards.dll
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.pdb
+C:\Users\User\source\repos\ListsHW\Cards\obj\Debug\net5.0\Cards.genruntimeconfig.cache

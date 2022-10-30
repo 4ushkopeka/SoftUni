@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\KaminoFactory.exe
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\KaminoFactory.deps.json
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\KaminoFactory.dll
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\User\source\repos\arrayHW\KaminoFactory\bin\Debug\net5.0\KaminoFactory.pdb
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.dll
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.pdb
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.genruntimeconfig.cache
+C:\Users\User\source\repos\arrayHW\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ArrayBombs.exe
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ArrayBombs.deps.json
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ArrayBombs.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ArrayBombs.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ArrayBombs.dll
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ref\ArrayBombs.dll
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\bin\Debug\net5.0\ArrayBombs.pdb
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.dll
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ref\ArrayBombs.dll
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.pdb
+C:\Users\User\source\repos\JaggedArraysEx\ArrayBombs\obj\Debug\net5.0\ArrayBombs.genruntimeconfig.cache

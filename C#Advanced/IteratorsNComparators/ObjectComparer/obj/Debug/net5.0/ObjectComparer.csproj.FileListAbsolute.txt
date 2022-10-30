@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ObjectComparer.exe
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ObjectComparer.deps.json
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ObjectComparer.runtimeconfig.json
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ObjectComparer.runtimeconfig.dev.json
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ObjectComparer.dll
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ref\ObjectComparer.dll
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\bin\Debug\net5.0\ObjectComparer.pdb
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.AssemblyInfo.cs
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.dll
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ref\ObjectComparer.dll
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.pdb
+C:\Users\User\source\repos\IteratorsNComparators\ObjectComparer\obj\Debug\net5.0\ObjectComparer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\New folder\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\User\source\repos\New folder\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\User\source\repos\New folder\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\User\source\repos\New folder\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\User\source\repos\New folder\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\User\source\repos\New folder\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

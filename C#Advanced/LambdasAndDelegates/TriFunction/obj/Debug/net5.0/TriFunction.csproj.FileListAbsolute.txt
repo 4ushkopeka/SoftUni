@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\TriFunction.exe
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\TriFunction.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\TriFunction.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\TriFunction.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\TriFunction.dll
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\ref\TriFunction.dll
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\bin\Debug\net5.0\TriFunction.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.dll
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\ref\TriFunction.dll
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\TriFunction\obj\Debug\net5.0\TriFunction.genruntimeconfig.cache

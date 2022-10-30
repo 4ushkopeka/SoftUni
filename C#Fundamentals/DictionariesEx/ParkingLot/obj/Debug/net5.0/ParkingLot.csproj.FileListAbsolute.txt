@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ParkingLot.exe
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ParkingLot.deps.json
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ParkingLot.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ParkingLot.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ParkingLot.dll
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ref\ParkingLot.dll
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\bin\Debug\net5.0\ParkingLot.pdb
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.dll
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ref\ParkingLot.dll
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.pdb
+C:\Users\User\source\repos\DictionariesEx\ParkingLot\obj\Debug\net5.0\ParkingLot.genruntimeconfig.cache

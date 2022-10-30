@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f701c9e0-a4dc-435d-89f8-bbb5f2e802f4": {
+      "ProjectGuid": "f701c9e0-a4dc-435d-89f8-bbb5f2e802f4",
+      "DisplayName": "AdvancedExamPrep1",
+      "ColorIndex": 0
+    },
+    "f1a61ea0-9395-46b5-ae73-544564124c38": {
+      "ProjectGuid": "f1a61ea0-9395-46b5-ae73-544564124c38",
+      "DisplayName": "Marioo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

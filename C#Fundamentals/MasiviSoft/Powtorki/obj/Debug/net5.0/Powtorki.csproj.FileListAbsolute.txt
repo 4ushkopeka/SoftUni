@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\Powtorki.exe
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\Powtorki.deps.json
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\Powtorki.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\Powtorki.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\Powtorki.dll
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\ref\Powtorki.dll
+C:\Users\User\source\repos\MasiviSoft\Powtorki\bin\Debug\net5.0\Powtorki.pdb
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.dll
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\ref\Powtorki.dll
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.pdb
+C:\Users\User\source\repos\MasiviSoft\Powtorki\obj\Debug\net5.0\Powtorki.genruntimeconfig.cache

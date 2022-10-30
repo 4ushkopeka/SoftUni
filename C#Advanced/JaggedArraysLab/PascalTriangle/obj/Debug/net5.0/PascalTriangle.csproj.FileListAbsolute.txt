@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\PascalTriangle.exe
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\PascalTriangle.deps.json
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\PascalTriangle.dll
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\bin\Debug\net5.0\PascalTriangle.pdb
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.dll
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.pdb
+C:\Users\User\source\repos\JaggedArraysLab\PascalTriangle\obj\Debug\net5.0\PascalTriangle.genruntimeconfig.cache

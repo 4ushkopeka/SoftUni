@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\SetsOfElements.exe
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\SetsOfElements.deps.json
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\SetsOfElements.runtimeconfig.json
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\SetsOfElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\SetsOfElements.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\ref\SetsOfElements.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\bin\Debug\net5.0\SetsOfElements.pdb
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.AssemblyInfo.cs
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\ref\SetsOfElements.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.pdb
+C:\Users\User\source\repos\SetsAndDictionaries\SetsOfElements\obj\Debug\net5.0\SetsOfElements.genruntimeconfig.cache

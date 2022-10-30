@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\Palindromes.exe
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\Palindromes.deps.json
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\Palindromes.dll
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\ref\Palindromes.dll
+C:\Users\User\source\repos\MethodsHW\Palindromes\bin\Debug\net5.0\Palindromes.pdb
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.dll
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\ref\Palindromes.dll
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.pdb
+C:\Users\User\source\repos\MethodsHW\Palindromes\obj\Debug\net5.0\Palindromes.genruntimeconfig.cache

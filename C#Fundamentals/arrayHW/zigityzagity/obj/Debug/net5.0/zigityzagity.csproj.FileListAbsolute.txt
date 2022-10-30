@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\zigityzagity.exe
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\zigityzagity.deps.json
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\zigityzagity.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\zigityzagity.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\zigityzagity.dll
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\ref\zigityzagity.dll
+C:\Users\User\source\repos\arrayHW\zigityzagity\bin\Debug\net5.0\zigityzagity.pdb
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.dll
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\ref\zigityzagity.dll
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.pdb
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.genruntimeconfig.cache
+C:\Users\User\source\repos\arrayHW\zigityzagity\obj\Debug\net5.0\zigityzagity.csproj.AssemblyReference.cache

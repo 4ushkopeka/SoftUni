@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\Miner.exe
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\Miner.deps.json
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\Miner.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\Miner.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\Miner.dll
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\ref\Miner.dll
+C:\Users\User\source\repos\JaggedArraysEx\Miner\bin\Debug\net5.0\Miner.pdb
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.dll
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\ref\Miner.dll
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.pdb
+C:\Users\User\source\repos\JaggedArraysEx\Miner\obj\Debug\net5.0\Miner.genruntimeconfig.cache

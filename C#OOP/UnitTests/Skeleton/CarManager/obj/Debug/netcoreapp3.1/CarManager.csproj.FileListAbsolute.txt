@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\User\source\repos\New folder\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

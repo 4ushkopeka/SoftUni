@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\SequenceReplacing.exe
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\SequenceReplacing.deps.json
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\SequenceReplacing.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\SequenceReplacing.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\SequenceReplacing.dll
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\ref\SequenceReplacing.dll
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\bin\Debug\net5.0\SequenceReplacing.pdb
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.dll
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\ref\SequenceReplacing.dll
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.pdb
+C:\Users\User\source\repos\TextProcessingEx\SequenceReplacing\obj\Debug\net5.0\SequenceReplacing.genruntimeconfig.cache

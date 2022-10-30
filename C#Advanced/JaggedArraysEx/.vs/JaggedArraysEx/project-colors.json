@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbc5bb70-d309-4eda-b8ea-71d189a57281": {
+      "ProjectGuid": "cbc5bb70-d309-4eda-b8ea-71d189a57281",
+      "DisplayName": "JaggedArraysEx",
+      "ColorIndex": 0
+    },
+    "7271c9be-6a4c-46bf-a94d-660ce85022b4": {
+      "ProjectGuid": "7271c9be-6a4c-46bf-a94d-660ce85022b4",
+      "DisplayName": "SquaresInMatrix",
+      "ColorIndex": 1
+    },
+    "6b377fae-3719-4a79-a38b-ed586f997859": {
+      "ProjectGuid": "6b377fae-3719-4a79-a38b-ed586f997859",
+      "DisplayName": "CubeSum",
+      "ColorIndex": 2
+    },
+    "ca5d867a-b71e-48dd-871c-8441331fcadb": {
+      "ProjectGuid": "ca5d867a-b71e-48dd-871c-8441331fcadb",
+      "DisplayName": "SubMatrixMaxSum",
+      "ColorIndex": 3
+    },
+    "b85734b3-bd0b-45b4-a442-f5ba36d100e6": {
+      "ProjectGuid": "b85734b3-bd0b-45b4-a442-f5ba36d100e6",
+      "DisplayName": "CubeSum",
+      "ColorIndex": 4
+    },
+    "186c5f4b-ba1b-4048-af66-6bba76f38380": {
+      "ProjectGuid": "186c5f4b-ba1b-4048-af66-6bba76f38380",
+      "DisplayName": "MatrixShuffle",
+      "ColorIndex": 5
+    },
+    "e5b14082-8cbf-4172-b0af-df5508af26f2": {
+      "ProjectGuid": "e5b14082-8cbf-4172-b0af-df5508af26f2",
+      "DisplayName": "SnakeMoves",
+      "ColorIndex": 6
+    },
+    "e5712911-9c16-4da7-bec4-0f7048c60273": {
+      "ProjectGuid": "e5712911-9c16-4da7-bec4-0f7048c60273",
+      "DisplayName": "JaggerManipulator",
+      "ColorIndex": 7
+    },
+    "db661bbc-93bb-4019-9a84-f0b23f497a0b": {
+      "ProjectGuid": "db661bbc-93bb-4019-9a84-f0b23f497a0b",
+      "DisplayName": "KnightGame",
+      "ColorIndex": 8
+    },
+    "9c746b49-4ca7-4ebe-9da4-038cfb0c9f42": {
+      "ProjectGuid": "9c746b49-4ca7-4ebe-9da4-038cfb0c9f42",
+      "DisplayName": "ArrayBombs",
+      "ColorIndex": 9
+    },
+    "5e4e004f-f4b3-4fc6-8a54-2f558433c8de": {
+      "ProjectGuid": "5e4e004f-f4b3-4fc6-8a54-2f558433c8de",
+      "DisplayName": "Miner",
+      "ColorIndex": 10
+    },
+    "a213b341-843d-4167-a047-9e40e5e09e5e": {
+      "ProjectGuid": "a213b341-843d-4167-a047-9e40e5e09e5e",
+      "DisplayName": "SuperUltraStrangeBunnies",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

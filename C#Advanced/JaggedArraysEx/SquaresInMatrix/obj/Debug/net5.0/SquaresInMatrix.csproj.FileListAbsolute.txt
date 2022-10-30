@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\SquaresInMatrix.exe
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\SquaresInMatrix.deps.json
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\SquaresInMatrix.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\SquaresInMatrix.dll
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\ref\SquaresInMatrix.dll
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\bin\Debug\net5.0\SquaresInMatrix.pdb
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.dll
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\ref\SquaresInMatrix.dll
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.pdb
+C:\Users\User\source\repos\JaggedArraysEx\SquaresInMatrix\obj\Debug\net5.0\SquaresInMatrix.genruntimeconfig.cache

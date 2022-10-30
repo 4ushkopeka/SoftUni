@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ListsHW.exe
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ListsHW.deps.json
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ListsHW.runtimeconfig.json
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ListsHW.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ListsHW.dll
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ref\ListsHW.dll
+C:\Users\User\source\repos\ListsHW\ListsHW\bin\Debug\net5.0\ListsHW.pdb
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.AssemblyInfo.cs
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.dll
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ref\ListsHW.dll
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.pdb
+C:\Users\User\source\repos\ListsHW\ListsHW\obj\Debug\net5.0\ListsHW.genruntimeconfig.cache

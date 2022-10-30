@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\Crossroads.exe
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\Crossroads.deps.json
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.json
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.dev.json
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\Crossroads.dll
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\ref\Crossroads.dll
+C:\Users\User\source\repos\StacksNQueues\Crossroads\bin\Debug\net5.0\Crossroads.pdb
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfo.cs
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.dll
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\ref\Crossroads.dll
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.pdb
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.genruntimeconfig.cache
+C:\Users\User\source\repos\StacksNQueues\Crossroads\obj\Debug\net5.0\Crossroads.csproj.AssemblyReference.cache

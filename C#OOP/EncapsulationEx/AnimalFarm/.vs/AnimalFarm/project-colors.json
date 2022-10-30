@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f3a2ad9-bd29-4728-b2de-df94c86e5b2b": {
+      "ProjectGuid": "9f3a2ad9-bd29-4728-b2de-df94c86e5b2b",
+      "DisplayName": "AnimalFarm",
+      "ColorIndex": 0
+    },
+    "ded2085b-5f9c-4337-a14b-d0379fb775cb": {
+      "ProjectGuid": "ded2085b-5f9c-4337-a14b-d0379fb775cb",
+      "DisplayName": "ShoppingSpree",
+      "ColorIndex": 1
+    },
+    "27c9e21c-e7a6-4994-9639-2b74af58d87a": {
+      "ProjectGuid": "27c9e21c-e7a6-4994-9639-2b74af58d87a",
+      "DisplayName": "PizzaCalories",
+      "ColorIndex": 2
+    },
+    "303b59aa-ce33-4922-8016-3e4052d6c0a6": {
+      "ProjectGuid": "303b59aa-ce33-4922-8016-3e4052d6c0a6",
+      "DisplayName": "FootballTeamGenerator",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

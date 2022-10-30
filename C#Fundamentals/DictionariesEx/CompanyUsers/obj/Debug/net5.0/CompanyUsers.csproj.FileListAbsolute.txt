@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\CompanyUsers.exe
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\CompanyUsers.deps.json
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\CompanyUsers.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\CompanyUsers.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\CompanyUsers.dll
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\ref\CompanyUsers.dll
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\bin\Debug\net5.0\CompanyUsers.pdb
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.dll
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\ref\CompanyUsers.dll
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.pdb
+C:\Users\User\source\repos\DictionariesEx\CompanyUsers\obj\Debug\net5.0\CompanyUsers.genruntimeconfig.cache

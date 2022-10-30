@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedExamPrep1", "AdvancedExamPrep1\AdvancedExamPrep1.csproj", "{F701C9E0-A4DC-435D-89F8-BBB5F2E802F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marioo", "Marioo\Marioo.csproj", "{F1A61EA0-9395-46B5-AE73-544564124C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F701C9E0-A4DC-435D-89F8-BBB5F2E802F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F701C9E0-A4DC-435D-89F8-BBB5F2E802F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F701C9E0-A4DC-435D-89F8-BBB5F2E802F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F701C9E0-A4DC-435D-89F8-BBB5F2E802F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A61EA0-9395-46B5-AE73-544564124C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A61EA0-9395-46B5-AE73-544564124C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A61EA0-9395-46B5-AE73-544564124C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A61EA0-9395-46B5-AE73-544564124C38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B395E1-867D-42BC-9406-ABC92A53FC11}
+	EndGlobalSection
+EndGlobal

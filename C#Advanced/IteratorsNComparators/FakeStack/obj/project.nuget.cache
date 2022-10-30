@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+s6JlYOelXaMJZ8a6GvfxkG6a10cUQARFq4mUOaF/KqZsE7Mb1663qFQgPKKkt3775wKvsN+KOl7nXKXlCD3Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\IteratorsNComparators\\FakeStack\\FakeStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

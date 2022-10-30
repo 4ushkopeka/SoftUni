@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\SumASub.exe
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\SumASub.deps.json
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\SumASub.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\SumASub.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\SumASub.dll
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\ref\SumASub.dll
+C:\Users\User\source\repos\MethodsHW\SumASub\bin\Debug\net5.0\SumASub.pdb
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.dll
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\ref\SumASub.dll
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.pdb
+C:\Users\User\source\repos\MethodsHW\SumASub\obj\Debug\net5.0\SumASub.genruntimeconfig.cache

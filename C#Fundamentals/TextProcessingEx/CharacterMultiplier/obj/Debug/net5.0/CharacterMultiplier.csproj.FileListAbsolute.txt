@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.exe
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.deps.json
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\ref\CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.pdb
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\ref\CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.pdb
+C:\Users\User\source\repos\TextProcessingEx\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.genruntimeconfig.cache

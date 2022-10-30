@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\Warships.exe
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\Warships.deps.json
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\Warships.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\Warships.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\Warships.dll
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\ref\Warships.dll
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\bin\Debug\net5.0\Warships.pdb
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.dll
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\ref\Warships.dll
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.pdb
+C:\Users\User\source\repos\AdvancedExamPrep2\Warships\obj\Debug\net5.0\Warships.genruntimeconfig.cache

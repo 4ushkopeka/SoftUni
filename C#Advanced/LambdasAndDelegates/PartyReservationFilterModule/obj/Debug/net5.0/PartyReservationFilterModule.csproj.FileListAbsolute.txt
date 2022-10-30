@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.exe
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\ref\PartyReservationFilterModule.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\ref\PartyReservationFilterModule.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\User\source\repos\LambdasAndDelegates\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.csproj.AssemblyReference.cache

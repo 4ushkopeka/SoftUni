@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\User\source\repos\OOPExamPrep4\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

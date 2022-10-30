@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef8c54c5-e8c8-4d12-b862-f5f1c67ac737": {
+      "ProjectGuid": "ef8c54c5-e8c8-4d12-b862-f5f1c67ac737",
+      "DisplayName": "SetsAndDictionaries",
+      "ColorIndex": 0
+    },
+    "73ee3c2f-1eba-407f-a9af-9666eca7ae87": {
+      "ProjectGuid": "73ee3c2f-1eba-407f-a9af-9666eca7ae87",
+      "DisplayName": "ForceBook",
+      "ColorIndex": 1
+    },
+    "7d0cc666-2117-46d5-9765-39f261efbb22": {
+      "ProjectGuid": "7d0cc666-2117-46d5-9765-39f261efbb22",
+      "DisplayName": "SetsOfElements",
+      "ColorIndex": 2
+    },
+    "a7431a86-8200-4f20-9110-e167991a46d1": {
+      "ProjectGuid": "a7431a86-8200-4f20-9110-e167991a46d1",
+      "DisplayName": "PeriodicTable",
+      "ColorIndex": 3
+    },
+    "cd39ff60-423a-4bb4-abc2-b19764339577": {
+      "ProjectGuid": "cd39ff60-423a-4bb4-abc2-b19764339577",
+      "DisplayName": "EvenTimes",
+      "ColorIndex": 4
+    },
+    "0312ff6a-8f3c-4bd9-b99e-542659aa986f": {
+      "ProjectGuid": "0312ff6a-8f3c-4bd9-b99e-542659aa986f",
+      "DisplayName": "SymbolCounter",
+      "ColorIndex": 5
+    },
+    "853b00b5-43c2-4106-acf8-1dd0b704796f": {
+      "ProjectGuid": "853b00b5-43c2-4106-acf8-1dd0b704796f",
+      "DisplayName": "Wardrobe",
+      "ColorIndex": 6
+    },
+    "3cd0a5e6-d024-46e0-8941-409e15c4d466": {
+      "ProjectGuid": "3cd0a5e6-d024-46e0-8941-409e15c4d466",
+      "DisplayName": "Vlogeer",
+      "ColorIndex": 7
+    },
+    "22233683-ba43-493e-8694-37cbb22a71bb": {
+      "ProjectGuid": "22233683-ba43-493e-8694-37cbb22a71bb",
+      "DisplayName": "Ranking",
+      "ColorIndex": 8
+    },
+    "f9c494b6-4517-4b6c-83e8-17afb75294d8": {
+      "ProjectGuid": "f9c494b6-4517-4b6c-83e8-17afb75294d8",
+      "DisplayName": "SoftuniGrades",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 10
+}

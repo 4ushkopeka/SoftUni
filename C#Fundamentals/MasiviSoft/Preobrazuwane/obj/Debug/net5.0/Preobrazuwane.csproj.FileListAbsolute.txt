@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\Preobrazuwane.exe
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\Preobrazuwane.deps.json
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\Preobrazuwane.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\Preobrazuwane.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\Preobrazuwane.dll
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\ref\Preobrazuwane.dll
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\bin\Debug\net5.0\Preobrazuwane.pdb
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.dll
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\ref\Preobrazuwane.dll
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.pdb
+C:\Users\User\source\repos\MasiviSoft\Preobrazuwane\obj\Debug\net5.0\Preobrazuwane.genruntimeconfig.cache

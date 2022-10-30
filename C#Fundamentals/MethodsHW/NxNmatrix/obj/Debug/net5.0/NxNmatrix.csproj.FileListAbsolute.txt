@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\NxNmatrix.exe
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\NxNmatrix.deps.json
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\NxNmatrix.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\NxNmatrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\NxNmatrix.dll
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\ref\NxNmatrix.dll
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\bin\Debug\net5.0\NxNmatrix.pdb
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.dll
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\ref\NxNmatrix.dll
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.pdb
+C:\Users\User\source\repos\MethodsHW\NxNmatrix\obj\Debug\net5.0\NxNmatrix.genruntimeconfig.cache

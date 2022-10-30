@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\BottlesNCups.exe
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\BottlesNCups.deps.json
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\BottlesNCups.runtimeconfig.json
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\BottlesNCups.runtimeconfig.dev.json
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\BottlesNCups.dll
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\ref\BottlesNCups.dll
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\bin\Debug\net5.0\BottlesNCups.pdb
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.AssemblyInfo.cs
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.dll
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\ref\BottlesNCups.dll
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.pdb
+C:\Users\User\source\repos\StacksNQueues\BottlesNCups\obj\Debug\net5.0\BottlesNCups.genruntimeconfig.cache

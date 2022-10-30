@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ee62f4a-bed9-4883-bf07-2a917dcd46b3": {
+      "ProjectGuid": "9ee62f4a-bed9-4883-bf07-2a917dcd46b3",
+      "DisplayName": "JaggedArraysLab",
+      "ColorIndex": 0
+    },
+    "df68c76e-f5f9-41b9-99aa-9d2b38b82b3e": {
+      "ProjectGuid": "df68c76e-f5f9-41b9-99aa-9d2b38b82b3e",
+      "DisplayName": "SumOfCols",
+      "ColorIndex": 1
+    },
+    "f5b3f6cd-97ab-4f94-8f2a-8ac9861e8bf9": {
+      "ProjectGuid": "f5b3f6cd-97ab-4f94-8f2a-8ac9861e8bf9",
+      "DisplayName": "SumOfDiagonal",
+      "ColorIndex": 2
+    },
+    "5c2ae623-fb98-4155-915d-71d0644fa70f": {
+      "ProjectGuid": "5c2ae623-fb98-4155-915d-71d0644fa70f",
+      "DisplayName": "SYmbolFinder",
+      "ColorIndex": 3
+    },
+    "b60bbb90-adde-4c09-8e63-9aed060bce6c": {
+      "ProjectGuid": "b60bbb90-adde-4c09-8e63-9aed060bce6c",
+      "DisplayName": "CubeSum",
+      "ColorIndex": 4
+    },
+    "2626bf65-3ef5-4bf3-8d87-f27e5506a467": {
+      "ProjectGuid": "2626bf65-3ef5-4bf3-8d87-f27e5506a467",
+      "DisplayName": "SubMatrixMaxSum",
+      "ColorIndex": 5
+    },
+    "a948fbb1-4d89-49aa-bddd-cc52333fc75e": {
+      "ProjectGuid": "a948fbb1-4d89-49aa-bddd-cc52333fc75e",
+      "DisplayName": "JaggedArrayMod",
+      "ColorIndex": 6
+    },
+    "59f54650-5235-4e3d-aaaa-e58717259564": {
+      "ProjectGuid": "59f54650-5235-4e3d-aaaa-e58717259564",
+      "DisplayName": "PascalTriangle",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

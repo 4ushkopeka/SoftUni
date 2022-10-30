@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\SoftuniGrades.exe
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\SoftuniGrades.deps.json
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\SoftuniGrades.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\SoftuniGrades.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\SoftuniGrades.dll
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\ref\SoftuniGrades.dll
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\bin\Debug\net5.0\SoftuniGrades.pdb
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.dll
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\ref\SoftuniGrades.dll
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.pdb
+C:\Users\User\source\repos\DictionariesEx\SoftuniGrades\obj\Debug\net5.0\SoftuniGrades.genruntimeconfig.cache

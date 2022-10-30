@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\CustomMinFunc.exe
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\CustomMinFunc.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\CustomMinFunc.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\CustomMinFunc.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\CustomMinFunc.dll
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\ref\CustomMinFunc.dll
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\bin\Debug\net5.0\CustomMinFunc.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.dll
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\ref\CustomMinFunc.dll
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\CustomMinFunc\obj\Debug\net5.0\CustomMinFunc.genruntimeconfig.cache

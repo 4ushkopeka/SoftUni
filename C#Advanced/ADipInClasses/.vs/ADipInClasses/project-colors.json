@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5def0aa3-4a40-4a1d-85c8-1f49f2fd29bb": {
+      "ProjectGuid": "5def0aa3-4a40-4a1d-85c8-1f49f2fd29bb",
+      "DisplayName": "delete",
+      "ColorIndex": 0
+    },
+    "44a458dc-805b-4aa9-b2b4-9b2c442affc1": {
+      "ProjectGuid": "44a458dc-805b-4aa9-b2b4-9b2c442affc1",
+      "DisplayName": "DefiningClasses",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5edf3b84-765a-4648-a185-724ef953d386": {
+      "ProjectGuid": "5edf3b84-765a-4648-a185-724ef953d386",
+      "DisplayName": "Racers",
+      "ColorIndex": 2
+    },
+    "20b92061-002d-4923-b63f-98cf0ac1ff79": {
+      "ProjectGuid": "20b92061-002d-4923-b63f-98cf0ac1ff79",
+      "DisplayName": "Parking",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

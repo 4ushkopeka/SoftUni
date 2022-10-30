@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\sglobqwaneNaMasiv.exe
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\sglobqwaneNaMasiv.deps.json
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\sglobqwaneNaMasiv.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\sglobqwaneNaMasiv.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\sglobqwaneNaMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\ref\sglobqwaneNaMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\bin\Debug\net5.0\sglobqwaneNaMasiv.pdb
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\ref\sglobqwaneNaMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.pdb
+C:\Users\User\source\repos\MasiviSoft\sglobqwaneNaMasiv\obj\Debug\net5.0\sglobqwaneNaMasiv.genruntimeconfig.cache

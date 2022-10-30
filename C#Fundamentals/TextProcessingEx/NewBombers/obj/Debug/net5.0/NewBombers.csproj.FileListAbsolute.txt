@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\NewBombers.exe
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\NewBombers.deps.json
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\NewBombers.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\NewBombers.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\NewBombers.dll
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\ref\NewBombers.dll
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\bin\Debug\net5.0\NewBombers.pdb
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.dll
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\ref\NewBombers.dll
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.pdb
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessingEx\NewBombers\obj\Debug\net5.0\NewBombers.csproj.AssemblyReference.cache

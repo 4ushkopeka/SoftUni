@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\topinteger.exe
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\topinteger.deps.json
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\topinteger.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\topinteger.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\topinteger.dll
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\ref\topinteger.dll
+C:\Users\User\source\repos\arrayHW\topinteger\bin\Debug\net5.0\topinteger.pdb
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.dll
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\ref\topinteger.dll
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.pdb
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.genruntimeconfig.cache
+C:\Users\User\source\repos\arrayHW\topinteger\obj\Debug\net5.0\topinteger.csproj.AssemblyReference.cache

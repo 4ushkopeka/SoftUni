@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\TextProcessingEx.exe
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\TextProcessingEx.deps.json
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\TextProcessingEx.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\TextProcessingEx.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\TextProcessingEx.dll
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\ref\TextProcessingEx.dll
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\bin\Debug\net5.0\TextProcessingEx.pdb
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.dll
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\ref\TextProcessingEx.dll
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.pdb
+C:\Users\User\source\repos\TextProcessingEx\TextProcessingEx\obj\Debug\net5.0\TextProcessingEx.genruntimeconfig.cache

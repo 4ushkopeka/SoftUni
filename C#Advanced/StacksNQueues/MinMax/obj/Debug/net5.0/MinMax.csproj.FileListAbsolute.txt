@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\MinMax.exe
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\MinMax.deps.json
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\MinMax.runtimeconfig.json
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\MinMax.runtimeconfig.dev.json
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\MinMax.dll
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\ref\MinMax.dll
+C:\Users\User\source\repos\StacksNQueues\MinMax\bin\Debug\net5.0\MinMax.pdb
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.AssemblyInfo.cs
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.dll
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\ref\MinMax.dll
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.pdb
+C:\Users\User\source\repos\StacksNQueues\MinMax\obj\Debug\net5.0\MinMax.genruntimeconfig.cache

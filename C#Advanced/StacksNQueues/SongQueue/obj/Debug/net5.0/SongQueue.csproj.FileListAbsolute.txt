@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\SongQueue.exe
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\SongQueue.deps.json
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\SongQueue.runtimeconfig.json
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\SongQueue.runtimeconfig.dev.json
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\SongQueue.dll
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\ref\SongQueue.dll
+C:\Users\User\source\repos\StacksNQueues\SongQueue\bin\Debug\net5.0\SongQueue.pdb
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.AssemblyInfo.cs
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.dll
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\ref\SongQueue.dll
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.pdb
+C:\Users\User\source\repos\StacksNQueues\SongQueue\obj\Debug\net5.0\SongQueue.genruntimeconfig.cache

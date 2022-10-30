@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\AdvancedExamPrep1.exe
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\AdvancedExamPrep1.deps.json
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\AdvancedExamPrep1.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\AdvancedExamPrep1.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\AdvancedExamPrep1.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\ref\AdvancedExamPrep1.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\bin\Debug\net5.0\AdvancedExamPrep1.pdb
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\ref\AdvancedExamPrep1.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.pdb
+C:\Users\User\source\repos\AdvancedExamPrep1\AdvancedExamPrep1\obj\Debug\net5.0\AdvancedExamPrep1.genruntimeconfig.cache

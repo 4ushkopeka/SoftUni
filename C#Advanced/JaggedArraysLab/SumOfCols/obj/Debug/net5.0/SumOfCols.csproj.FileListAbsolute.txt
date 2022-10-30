@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\SumOfCols.exe
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\SumOfCols.deps.json
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\SumOfCols.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\SumOfCols.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\SumOfCols.dll
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\ref\SumOfCols.dll
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\bin\Debug\net5.0\SumOfCols.pdb
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.dll
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\ref\SumOfCols.dll
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.pdb
+C:\Users\User\source\repos\JaggedArraysLab\SumOfCols\obj\Debug\net5.0\SumOfCols.genruntimeconfig.cache

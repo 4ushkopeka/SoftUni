@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\roatet.exe
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\roatet.deps.json
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\roatet.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\roatet.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\roatet.dll
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\ref\roatet.dll
+C:\Users\User\source\repos\arrayHW\roatet\bin\Debug\net5.0\roatet.pdb
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.dll
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\ref\roatet.dll
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.pdb
+C:\Users\User\source\repos\arrayHW\roatet\obj\Debug\net5.0\roatet.genruntimeconfig.cache

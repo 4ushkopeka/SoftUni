@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\AppendArrays.exe
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\AppendArrays.deps.json
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.json
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\AppendArrays.dll
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\User\source\repos\ListsHW\AppendArrays\bin\Debug\net5.0\AppendArrays.pdb
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfo.cs
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.dll
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.pdb
+C:\Users\User\source\repos\ListsHW\AppendArrays\obj\Debug\net5.0\AppendArrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\CompVirus.exe
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\CompVirus.deps.json
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\CompVirus.runtimeconfig.json
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\CompVirus.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\CompVirus.dll
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\ref\CompVirus.dll
+C:\Users\User\source\repos\ListsHW\CompVirus\bin\Debug\net5.0\CompVirus.pdb
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.AssemblyInfo.cs
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.dll
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\ref\CompVirus.dll
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.pdb
+C:\Users\User\source\repos\ListsHW\CompVirus\obj\Debug\net5.0\CompVirus.genruntimeconfig.cache

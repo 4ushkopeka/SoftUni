@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\BalancedSkobi.exe
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\BalancedSkobi.deps.json
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\BalancedSkobi.runtimeconfig.json
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\BalancedSkobi.runtimeconfig.dev.json
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\BalancedSkobi.dll
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\ref\BalancedSkobi.dll
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\bin\Debug\net5.0\BalancedSkobi.pdb
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.AssemblyInfo.cs
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.dll
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\ref\BalancedSkobi.dll
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.pdb
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.genruntimeconfig.cache
+C:\Users\User\source\repos\StacksNQueues\BalancedSkobi\obj\Debug\net5.0\BalancedSkobi.csproj.AssemblyReference.cache

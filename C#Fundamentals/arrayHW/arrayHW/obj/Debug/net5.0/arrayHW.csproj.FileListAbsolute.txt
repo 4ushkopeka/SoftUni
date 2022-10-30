@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\arrayHW.exe
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\arrayHW.deps.json
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\arrayHW.runtimeconfig.json
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\arrayHW.runtimeconfig.dev.json
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\arrayHW.dll
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\ref\arrayHW.dll
+C:\Users\User\source\repos\arrayHW\arrayHW\bin\Debug\net5.0\arrayHW.pdb
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.AssemblyInfo.cs
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.dll
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\ref\arrayHW.dll
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.pdb
+C:\Users\User\source\repos\arrayHW\arrayHW\obj\Debug\net5.0\arrayHW.genruntimeconfig.cache

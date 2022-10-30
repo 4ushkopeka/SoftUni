@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\oburmatChar.exe
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\oburmatChar.deps.json
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\oburmatChar.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\oburmatChar.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\oburmatChar.dll
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\ref\oburmatChar.dll
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\bin\Debug\net5.0\oburmatChar.pdb
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.dll
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\ref\oburmatChar.dll
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.pdb
+C:\Users\User\source\repos\MasiviSoft\oburmatChar\obj\Debug\net5.0\oburmatChar.genruntimeconfig.cache

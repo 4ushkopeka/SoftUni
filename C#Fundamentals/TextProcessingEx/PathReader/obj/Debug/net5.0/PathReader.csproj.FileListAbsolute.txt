@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\PathReader.exe
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\PathReader.deps.json
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\PathReader.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\PathReader.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\PathReader.dll
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\ref\PathReader.dll
+C:\Users\User\source\repos\TextProcessingEx\PathReader\bin\Debug\net5.0\PathReader.pdb
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.dll
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\ref\PathReader.dll
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.pdb
+C:\Users\User\source\repos\TextProcessingEx\PathReader\obj\Debug\net5.0\PathReader.genruntimeconfig.cache

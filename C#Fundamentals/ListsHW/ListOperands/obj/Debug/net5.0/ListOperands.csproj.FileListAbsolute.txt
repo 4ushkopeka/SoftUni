@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ListOperands.exe
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ListOperands.deps.json
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ListOperands.runtimeconfig.json
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ListOperands.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ListOperands.dll
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ref\ListOperands.dll
+C:\Users\User\source\repos\ListsHW\ListOperands\bin\Debug\net5.0\ListOperands.pdb
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.AssemblyInfo.cs
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.dll
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ref\ListOperands.dll
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.pdb
+C:\Users\User\source\repos\ListsHW\ListOperands\obj\Debug\net5.0\ListOperands.genruntimeconfig.cache

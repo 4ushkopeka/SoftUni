@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\JaggedArrayMod.exe
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\JaggedArrayMod.deps.json
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\JaggedArrayMod.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\JaggedArrayMod.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\JaggedArrayMod.dll
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\ref\JaggedArrayMod.dll
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\bin\Debug\net5.0\JaggedArrayMod.pdb
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.dll
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\ref\JaggedArrayMod.dll
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.pdb
+C:\Users\User\source\repos\JaggedArraysLab\JaggedArrayMod\obj\Debug\net5.0\JaggedArrayMod.genruntimeconfig.cache

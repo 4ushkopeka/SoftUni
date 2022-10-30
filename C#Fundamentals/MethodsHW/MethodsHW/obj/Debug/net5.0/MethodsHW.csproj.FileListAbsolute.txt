@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\MethodsHW.exe
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\MethodsHW.deps.json
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\MethodsHW.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\MethodsHW.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\MethodsHW.dll
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\ref\MethodsHW.dll
+C:\Users\User\source\repos\MethodsHW\MethodsHW\bin\Debug\net5.0\MethodsHW.pdb
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.dll
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\ref\MethodsHW.dll
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.pdb
+C:\Users\User\source\repos\MethodsHW\MethodsHW\obj\Debug\net5.0\MethodsHW.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\SubMatrixMaxSum.exe
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\SubMatrixMaxSum.deps.json
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\SubMatrixMaxSum.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\SubMatrixMaxSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\SubMatrixMaxSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\ref\SubMatrixMaxSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\bin\Debug\net5.0\SubMatrixMaxSum.pdb
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\ref\SubMatrixMaxSum.dll
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.pdb
+C:\Users\User\source\repos\JaggedArraysLab\SubMatrixMaxSum\obj\Debug\net5.0\SubMatrixMaxSum.genruntimeconfig.cache

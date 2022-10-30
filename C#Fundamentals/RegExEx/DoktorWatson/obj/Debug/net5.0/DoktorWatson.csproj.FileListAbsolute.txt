@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\DoktorWatson.exe
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\DoktorWatson.deps.json
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\DoktorWatson.runtimeconfig.json
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\DoktorWatson.runtimeconfig.dev.json
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\DoktorWatson.dll
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\ref\DoktorWatson.dll
+C:\Users\User\source\repos\RegExEx\DoktorWatson\bin\Debug\net5.0\DoktorWatson.pdb
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.AssemblyInfo.cs
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.dll
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\ref\DoktorWatson.dll
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.pdb
+C:\Users\User\source\repos\RegExEx\DoktorWatson\obj\Debug\net5.0\DoktorWatson.genruntimeconfig.cache

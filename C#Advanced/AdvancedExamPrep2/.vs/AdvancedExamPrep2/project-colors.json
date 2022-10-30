@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94079abb-dad9-4eed-a9cc-cde0db6196f3": {
+      "ProjectGuid": "94079abb-dad9-4eed-a9cc-cde0db6196f3",
+      "DisplayName": "AdvancedExamPrep2",
+      "ColorIndex": 0
+    },
+    "fe215a24-8b2a-46e3-b302-53a9d3e2a58f": {
+      "ProjectGuid": "fe215a24-8b2a-46e3-b302-53a9d3e2a58f",
+      "DisplayName": "Warships",
+      "ColorIndex": 1
+    },
+    "196eae7a-1f65-45bf-a667-b5b381e6fc2d": {
+      "ProjectGuid": "196eae7a-1f65-45bf-a667-b5b381e6fc2d",
+      "DisplayName": "JaggedArraysEx",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

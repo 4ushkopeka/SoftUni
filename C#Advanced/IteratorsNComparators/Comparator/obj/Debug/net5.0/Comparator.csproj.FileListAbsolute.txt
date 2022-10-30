@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\Comparator.exe
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\Comparator.deps.json
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\Comparator.runtimeconfig.json
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\Comparator.runtimeconfig.dev.json
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\Comparator.dll
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\ref\Comparator.dll
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\bin\Debug\net5.0\Comparator.pdb
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.AssemblyInfo.cs
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.dll
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\ref\Comparator.dll
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.pdb
+C:\Users\User\source\repos\IteratorsNComparators\Comparator\obj\Debug\net5.0\Comparator.genruntimeconfig.cache

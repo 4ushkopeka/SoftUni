@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\MasiviSoft.exe
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\MasiviSoft.deps.json
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\MasiviSoft.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\MasiviSoft.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\MasiviSoft.dll
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\ref\MasiviSoft.dll
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\bin\Debug\net5.0\MasiviSoft.pdb
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.dll
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\ref\MasiviSoft.dll
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.pdb
+C:\Users\User\source\repos\MasiviSoft\MasiviSoft\obj\Debug\net5.0\MasiviSoft.genruntimeconfig.cache

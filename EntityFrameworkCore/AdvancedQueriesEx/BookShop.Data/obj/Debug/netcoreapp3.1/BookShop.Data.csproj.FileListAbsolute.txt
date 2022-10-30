@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\New folder\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+C:\Users\User\source\repos\New folder\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Users\User\source\repos\New folder\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\Users\User\source\repos\New folder\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Users\User\source\repos\New folder\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Users\User\source\repos\New folder\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

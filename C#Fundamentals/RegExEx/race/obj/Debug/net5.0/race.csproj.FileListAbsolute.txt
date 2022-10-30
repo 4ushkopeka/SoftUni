@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\race.exe
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\race.deps.json
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\race.runtimeconfig.json
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\race.runtimeconfig.dev.json
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\race.dll
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\ref\race.dll
+C:\Users\User\source\repos\RegExEx\race\bin\Debug\net5.0\race.pdb
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.AssemblyInfo.cs
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.dll
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\ref\race.dll
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.pdb
+C:\Users\User\source\repos\RegExEx\race\obj\Debug\net5.0\race.genruntimeconfig.cache

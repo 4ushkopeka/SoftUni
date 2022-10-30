@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\LambdasAndDelegates.exe
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\LambdasAndDelegates.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\LambdasAndDelegates.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\LambdasAndDelegates.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\LambdasAndDelegates.dll
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\ref\LambdasAndDelegates.dll
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\net5.0\LambdasAndDelegates.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.dll
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\ref\LambdasAndDelegates.dll
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\net5.0\LambdasAndDelegates.genruntimeconfig.cache

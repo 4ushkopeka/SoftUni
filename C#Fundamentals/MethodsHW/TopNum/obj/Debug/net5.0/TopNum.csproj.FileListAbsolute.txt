@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\TopNum.exe
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\TopNum.deps.json
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\TopNum.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\TopNum.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\TopNum.dll
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\ref\TopNum.dll
+C:\Users\User\source\repos\MethodsHW\TopNum\bin\Debug\net5.0\TopNum.pdb
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.dll
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\ref\TopNum.dll
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.pdb
+C:\Users\User\source\repos\MethodsHW\TopNum\obj\Debug\net5.0\TopNum.genruntimeconfig.cache

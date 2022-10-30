@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ReverseAndExclude.exe
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ReverseAndExclude.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ReverseAndExclude.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ReverseAndExclude.dll
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ref\ReverseAndExclude.dll
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\bin\Debug\net5.0\ReverseAndExclude.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.dll
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ref\ReverseAndExclude.dll
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\ReverseAndExclude\obj\Debug\net5.0\ReverseAndExclude.genruntimeconfig.cache

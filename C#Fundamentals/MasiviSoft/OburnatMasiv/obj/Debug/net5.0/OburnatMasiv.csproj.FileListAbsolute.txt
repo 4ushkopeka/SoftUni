@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\OburnatMasiv.exe
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\OburnatMasiv.deps.json
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\OburnatMasiv.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\OburnatMasiv.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\OburnatMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\ref\OburnatMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\bin\Debug\net5.0\OburnatMasiv.pdb
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\ref\OburnatMasiv.dll
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.pdb
+C:\Users\User\source\repos\MasiviSoft\OburnatMasiv\obj\Debug\net5.0\OburnatMasiv.genruntimeconfig.cache

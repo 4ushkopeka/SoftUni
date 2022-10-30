@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\DictionariesEx.exe
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\DictionariesEx.deps.json
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\DictionariesEx.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\DictionariesEx.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\DictionariesEx.dll
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\ref\DictionariesEx.dll
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\bin\Debug\net5.0\DictionariesEx.pdb
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.dll
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\ref\DictionariesEx.dll
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.pdb
+C:\Users\User\source\repos\DictionariesEx\DictionariesEx\obj\Debug\net5.0\DictionariesEx.genruntimeconfig.cache

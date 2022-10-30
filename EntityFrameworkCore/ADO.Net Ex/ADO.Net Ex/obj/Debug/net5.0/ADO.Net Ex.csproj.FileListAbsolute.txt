@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\ADO.Net Ex.exe
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\ADO.Net Ex.deps.json
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\ADO.Net Ex.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\ADO.Net Ex.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\ADO.Net Ex.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\ADO.Net Ex.pdb
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.csproj.CopyComplete
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\refint\ADO.Net Ex.dll
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.pdb
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ADO.Net Ex.genruntimeconfig.cache
+C:\Users\User\source\repos\ADO.Net Ex\ADO.Net Ex\obj\Debug\net5.0\ref\ADO.Net Ex.dll

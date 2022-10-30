@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\LettersToNums.exe
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\LettersToNums.deps.json
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\LettersToNums.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\LettersToNums.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\LettersToNums.dll
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\ref\LettersToNums.dll
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\bin\Debug\net5.0\LettersToNums.pdb
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.dll
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\ref\LettersToNums.dll
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.pdb
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessingEx\LettersToNums\obj\Debug\net5.0\LettersToNums.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FixItExam\FixItExam\bin\Debug\net5.0\FixItExam.exe
+C:\Users\User\source\repos\FixItExam\FixItExam\bin\Debug\net5.0\FixItExam.deps.json
+C:\Users\User\source\repos\FixItExam\FixItExam\bin\Debug\net5.0\FixItExam.runtimeconfig.json
+C:\Users\User\source\repos\FixItExam\FixItExam\bin\Debug\net5.0\FixItExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\FixItExam\FixItExam\bin\Debug\net5.0\FixItExam.dll
+C:\Users\User\source\repos\FixItExam\FixItExam\bin\Debug\net5.0\FixItExam.pdb
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.AssemblyInfo.cs
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.dll
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\refint\FixItExam.dll
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.pdb
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\FixItExam.genruntimeconfig.cache
+C:\Users\User\source\repos\FixItExam\FixItExam\obj\Debug\net5.0\ref\FixItExam.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\MyltBigNum.exe
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\MyltBigNum.deps.json
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\MyltBigNum.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\MyltBigNum.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\MyltBigNum.dll
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\ref\MyltBigNum.dll
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\bin\Debug\net5.0\MyltBigNum.pdb
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.dll
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\ref\MyltBigNum.dll
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.pdb
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessingEx\MyltBigNum\obj\Debug\net5.0\MyltBigNum.csproj.AssemblyReference.cache

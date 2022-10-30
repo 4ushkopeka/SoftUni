@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\FakeStack.exe
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\FakeStack.deps.json
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\FakeStack.runtimeconfig.json
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\FakeStack.runtimeconfig.dev.json
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\FakeStack.dll
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\ref\FakeStack.dll
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\bin\Debug\net5.0\FakeStack.pdb
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.AssemblyInfo.cs
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.dll
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\ref\FakeStack.dll
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.pdb
+C:\Users\User\source\repos\IteratorsNComparators\FakeStack\obj\Debug\net5.0\FakeStack.genruntimeconfig.cache

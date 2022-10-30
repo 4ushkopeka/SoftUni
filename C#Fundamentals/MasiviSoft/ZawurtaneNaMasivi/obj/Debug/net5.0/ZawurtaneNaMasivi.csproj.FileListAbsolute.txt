@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ZawurtaneNaMasivi.exe
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ZawurtaneNaMasivi.deps.json
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ZawurtaneNaMasivi.runtimeconfig.json
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ZawurtaneNaMasivi.runtimeconfig.dev.json
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ZawurtaneNaMasivi.dll
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ref\ZawurtaneNaMasivi.dll
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\bin\Debug\net5.0\ZawurtaneNaMasivi.pdb
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.AssemblyInfo.cs
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.dll
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ref\ZawurtaneNaMasivi.dll
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.pdb
+C:\Users\User\source\repos\MasiviSoft\ZawurtaneNaMasivi\obj\Debug\net5.0\ZawurtaneNaMasivi.genruntimeconfig.cache

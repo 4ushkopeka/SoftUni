@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c4087be-94a5-47f7-9bba-df826ca18d43": {
+      "ProjectGuid": "4c4087be-94a5-47f7-9bba-df826ca18d43",
+      "DisplayName": "RegExEx",
+      "ColorIndex": 0
+    },
+    "b35bcd48-7feb-41e2-9945-a4e1a5b49fad": {
+      "ProjectGuid": "b35bcd48-7feb-41e2-9945-a4e1a5b49fad",
+      "DisplayName": "DoktorWatson",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

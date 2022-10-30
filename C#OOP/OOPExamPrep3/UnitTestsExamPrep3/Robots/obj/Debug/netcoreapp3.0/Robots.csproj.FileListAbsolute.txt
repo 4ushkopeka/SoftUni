@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\User\source\repos\UnitTestsExamPrep3\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

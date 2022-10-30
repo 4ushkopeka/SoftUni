@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\MinerTask.exe
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\MinerTask.deps.json
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\MinerTask.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\MinerTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\MinerTask.dll
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\ref\MinerTask.dll
+C:\Users\User\source\repos\DictionariesEx\MinerTask\bin\Debug\net5.0\MinerTask.pdb
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.dll
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\ref\MinerTask.dll
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.pdb
+C:\Users\User\source\repos\DictionariesEx\MinerTask\obj\Debug\net5.0\MinerTask.genruntimeconfig.cache

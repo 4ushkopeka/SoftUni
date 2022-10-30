@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\Vlogeer.exe
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\Vlogeer.deps.json
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\Vlogeer.runtimeconfig.json
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\Vlogeer.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\Vlogeer.dll
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\ref\Vlogeer.dll
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\bin\Debug\net5.0\Vlogeer.pdb
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.AssemblyInfo.cs
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.dll
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\ref\Vlogeer.dll
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.pdb
+C:\Users\User\source\repos\SetsAndDictionaries\Vlogeer\obj\Debug\net5.0\Vlogeer.genruntimeconfig.cache

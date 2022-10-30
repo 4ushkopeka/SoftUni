@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\FactorialDivision.exe
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\FactorialDivision.deps.json
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\FactorialDivision.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\FactorialDivision.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\FactorialDivision.dll
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\ref\FactorialDivision.dll
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\bin\Debug\net5.0\FactorialDivision.pdb
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.dll
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\ref\FactorialDivision.dll
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.pdb
+C:\Users\User\source\repos\MethodsHW\FactorialDivision\obj\Debug\net5.0\FactorialDivision.genruntimeconfig.cache

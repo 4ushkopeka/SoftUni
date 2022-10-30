@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a9fe34e-ff44-44e1-aca5-0178dd0b15b7": {
+      "ProjectGuid": "2a9fe34e-ff44-44e1-aca5-0178dd0b15b7",
+      "DisplayName": "StacksNQueues",
+      "ColorIndex": 0
+    },
+    "3ee49a17-a28b-4fbe-8b16-6103b42eb954": {
+      "ProjectGuid": "3ee49a17-a28b-4fbe-8b16-6103b42eb954",
+      "DisplayName": "BasicQueues",
+      "ColorIndex": 1
+    },
+    "a63c223f-e67a-4b92-b84a-3798c203e785": {
+      "ProjectGuid": "a63c223f-e67a-4b92-b84a-3798c203e785",
+      "DisplayName": "MinMax",
+      "ColorIndex": 2
+    },
+    "92a74568-0730-462b-a20b-6820f2b8e1e7": {
+      "ProjectGuid": "92a74568-0730-462b-a20b-6820f2b8e1e7",
+      "DisplayName": "FastFood",
+      "ColorIndex": 3
+    },
+    "07230088-5cc3-4112-9e81-9b695cca121e": {
+      "ProjectGuid": "07230088-5cc3-4112-9e81-9b695cca121e",
+      "DisplayName": "FashionBoutique",
+      "ColorIndex": 4
+    },
+    "0c9c9a7e-03c2-4f40-b04c-a5139b0fc22b": {
+      "ProjectGuid": "0c9c9a7e-03c2-4f40-b04c-a5139b0fc22b",
+      "DisplayName": "SongQueue",
+      "ColorIndex": 5
+    },
+    "9a9d15b1-5f3e-4fc7-ae9c-c4fa153a3b64": {
+      "ProjectGuid": "9a9d15b1-5f3e-4fc7-ae9c-c4fa153a3b64",
+      "DisplayName": "TruckTour",
+      "ColorIndex": 6
+    },
+    "043b8a8a-c5d0-4a78-a38a-ce220c98a94d": {
+      "ProjectGuid": "043b8a8a-c5d0-4a78-a38a-ce220c98a94d",
+      "DisplayName": "BalancedSkobi",
+      "ColorIndex": 7
+    },
+    "0af9f871-1fd2-4a86-a53c-c5fdbcb02ce6": {
+      "ProjectGuid": "0af9f871-1fd2-4a86-a53c-c5fdbcb02ce6",
+      "DisplayName": "TextEditor",
+      "ColorIndex": 8
+    },
+    "7a7108c4-e9c1-4d16-8e43-325bda697fdb": {
+      "ProjectGuid": "7a7108c4-e9c1-4d16-8e43-325bda697fdb",
+      "DisplayName": "Crossroads",
+      "ColorIndex": 9
+    },
+    "c8063304-c018-4fdd-bcb2-e5f6ed5abeea": {
+      "ProjectGuid": "c8063304-c018-4fdd-bcb2-e5f6ed5abeea",
+      "DisplayName": "KeyRevolver",
+      "ColorIndex": 10
+    },
+    "a7b921c4-66a4-4d14-8ca6-81c1b17fd7cf": {
+      "ProjectGuid": "a7b921c4-66a4-4d14-8ca6-81c1b17fd7cf",
+      "DisplayName": "BottlesNCups",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

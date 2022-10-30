@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\Tuple.exe
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\Tuple.deps.json
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\Tuple.runtimeconfig.json
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\Tuple.runtimeconfig.dev.json
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\Tuple.dll
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\ref\Tuple.dll
+C:\Users\User\source\repos\Generics\Tuple\bin\Debug\net5.0\Tuple.pdb
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.dll
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\ref\Tuple.dll
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.pdb
+C:\Users\User\source\repos\Generics\Tuple\obj\Debug\net5.0\Tuple.genruntimeconfig.cache

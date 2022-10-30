@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.exe
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.dll
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\ref\AppliedArithmetics.dll
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.dll
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\ref\AppliedArithmetics.dll
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.genruntimeconfig.cache

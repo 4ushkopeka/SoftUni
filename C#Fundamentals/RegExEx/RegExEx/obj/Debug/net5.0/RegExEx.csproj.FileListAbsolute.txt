@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\RegExEx.exe
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\RegExEx.deps.json
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\RegExEx.runtimeconfig.json
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\RegExEx.runtimeconfig.dev.json
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\RegExEx.dll
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\ref\RegExEx.dll
+C:\Users\User\source\repos\RegExEx\RegExEx\bin\Debug\net5.0\RegExEx.pdb
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.AssemblyInfo.cs
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.dll
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\ref\RegExEx.dll
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.pdb
+C:\Users\User\source\repos\RegExEx\RegExEx\obj\Debug\net5.0\RegExEx.genruntimeconfig.cache

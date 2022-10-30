@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\MatrixShuffle.exe
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\MatrixShuffle.deps.json
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\MatrixShuffle.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\MatrixShuffle.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\MatrixShuffle.dll
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\ref\MatrixShuffle.dll
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\bin\Debug\net5.0\MatrixShuffle.pdb
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.dll
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\ref\MatrixShuffle.dll
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.pdb
+C:\Users\User\source\repos\JaggedArraysEx\MatrixShuffle\obj\Debug\net5.0\MatrixShuffle.genruntimeconfig.cache

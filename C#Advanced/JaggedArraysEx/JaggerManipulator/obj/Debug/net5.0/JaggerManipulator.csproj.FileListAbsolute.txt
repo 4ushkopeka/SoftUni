@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\JaggerManipulator.exe
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\JaggerManipulator.deps.json
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\JaggerManipulator.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\JaggerManipulator.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\JaggerManipulator.dll
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\ref\JaggerManipulator.dll
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\bin\Debug\net5.0\JaggerManipulator.pdb
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.dll
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\ref\JaggerManipulator.dll
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.pdb
+C:\Users\User\source\repos\JaggedArraysEx\JaggerManipulator\obj\Debug\net5.0\JaggerManipulator.genruntimeconfig.cache

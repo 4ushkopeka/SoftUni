@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\Marioo.exe
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\Marioo.deps.json
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\Marioo.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\Marioo.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\Marioo.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\ref\Marioo.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\bin\Debug\net5.0\Marioo.pdb
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\ref\Marioo.dll
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.pdb
+C:\Users\User\source\repos\AdvancedExamPrep1\Marioo\obj\Debug\net5.0\Marioo.genruntimeconfig.cache

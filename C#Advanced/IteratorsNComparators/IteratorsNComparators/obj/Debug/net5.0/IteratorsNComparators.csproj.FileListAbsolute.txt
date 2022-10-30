@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\IteratorsNComparators.exe
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\IteratorsNComparators.deps.json
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\IteratorsNComparators.runtimeconfig.json
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\IteratorsNComparators.runtimeconfig.dev.json
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\IteratorsNComparators.dll
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\ref\IteratorsNComparators.dll
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\bin\Debug\net5.0\IteratorsNComparators.pdb
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.AssemblyInfo.cs
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.dll
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\ref\IteratorsNComparators.dll
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.pdb
+C:\Users\User\source\repos\IteratorsNComparators\IteratorsNComparators\obj\Debug\net5.0\IteratorsNComparators.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\SetsAndDictionaries.exe
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\SetsAndDictionaries.deps.json
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\SetsAndDictionaries.runtimeconfig.json
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\SetsAndDictionaries.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\SetsAndDictionaries.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\ref\SetsAndDictionaries.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\net5.0\SetsAndDictionaries.pdb
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.AssemblyInfo.cs
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\ref\SetsAndDictionaries.dll
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.pdb
+C:\Users\User\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\net5.0\SetsAndDictionaries.genruntimeconfig.cache

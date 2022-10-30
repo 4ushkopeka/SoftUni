@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PolymorphismEx\Raids\bin\Debug\netcoreapp3.1\Raids.exe
+C:\Users\User\source\repos\PolymorphismEx\Raids\bin\Debug\netcoreapp3.1\Raids.deps.json
+C:\Users\User\source\repos\PolymorphismEx\Raids\bin\Debug\netcoreapp3.1\Raids.runtimeconfig.json
+C:\Users\User\source\repos\PolymorphismEx\Raids\bin\Debug\netcoreapp3.1\Raids.runtimeconfig.dev.json
+C:\Users\User\source\repos\PolymorphismEx\Raids\bin\Debug\netcoreapp3.1\Raids.dll
+C:\Users\User\source\repos\PolymorphismEx\Raids\bin\Debug\netcoreapp3.1\Raids.pdb
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.AssemblyInfo.cs
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.dll
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.pdb
+C:\Users\User\source\repos\PolymorphismEx\Raids\obj\Debug\netcoreapp3.1\Raids.genruntimeconfig.cache

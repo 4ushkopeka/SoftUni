@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\Ceaser.exe
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\Ceaser.deps.json
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\Ceaser.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\Ceaser.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\Ceaser.dll
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\ref\Ceaser.dll
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\bin\Debug\net5.0\Ceaser.pdb
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.dll
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\ref\Ceaser.dll
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.pdb
+C:\Users\User\source\repos\TextProcessingEx\Ceaser\obj\Debug\net5.0\Ceaser.genruntimeconfig.cache

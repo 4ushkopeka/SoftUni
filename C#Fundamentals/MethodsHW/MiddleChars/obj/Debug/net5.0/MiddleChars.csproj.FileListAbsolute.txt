@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\MiddleChars.exe
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\MiddleChars.deps.json
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\MiddleChars.runtimeconfig.json
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\MiddleChars.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\MiddleChars.dll
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\ref\MiddleChars.dll
+C:\Users\User\source\repos\MethodsHW\MiddleChars\bin\Debug\net5.0\MiddleChars.pdb
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.dll
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\ref\MiddleChars.dll
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.pdb
+C:\Users\User\source\repos\MethodsHW\MiddleChars\obj\Debug\net5.0\MiddleChars.genruntimeconfig.cache

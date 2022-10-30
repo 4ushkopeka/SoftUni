@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\SnakeMoves.exe
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\SnakeMoves.deps.json
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\SnakeMoves.runtimeconfig.json
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\SnakeMoves.runtimeconfig.dev.json
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\SnakeMoves.dll
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\ref\SnakeMoves.dll
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\bin\Debug\net5.0\SnakeMoves.pdb
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.AssemblyInfo.cs
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.dll
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\ref\SnakeMoves.dll
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.pdb
+C:\Users\User\source\repos\JaggedArraysEx\SnakeMoves\obj\Debug\net5.0\SnakeMoves.genruntimeconfig.cache

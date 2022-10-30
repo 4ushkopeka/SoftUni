@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\PredicateParty.exe
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\PredicateParty.deps.json
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\PredicateParty.runtimeconfig.json
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\PredicateParty.runtimeconfig.dev.json
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\PredicateParty.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\ref\PredicateParty.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\bin\Debug\net5.0\PredicateParty.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.AssemblyInfo.cs
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\ref\PredicateParty.dll
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.pdb
+C:\Users\User\source\repos\LambdasAndDelegates\PredicateParty\obj\Debug\net5.0\PredicateParty.genruntimeconfig.cache
